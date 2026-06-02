@@ -6,7 +6,7 @@ const Hero = () => {
       <div className="absolute inset-0 h-full w-full bg-[linear-gradient(to_right,#80808012_1px,transparent_1px),linear-gradient(to_bottom,#80808012_1px,transparent_1px)] bg-size-[60px_60px]"></div>
 
       <div className="relative z-20 my-40 flex w-full flex-col items-center justify-center">
-        <h1 className="max-w-3xl bg-linear-to-b from-neutral-50 to-neutral-600 bg-clip-text text-center text-7xl leading-tight font-bold tracking-tight text-transparent">
+        <h1 className="max-w-3xl bg-linear-to-b from-neutral-50 to-neutral-600 bg-clip-text text-center text-7xl leading-tight font-bold tracking-tight text-transparent selection:bg-cyan-200 selection:text-neutral-400">
           Unleash the power of intuitive finance
         </h1>
         <p className="mt-6 max-w-3xl text-center text-xl leading-relaxed font-medium text-neutral-400 selection:bg-cyan-200">
