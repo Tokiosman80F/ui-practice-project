@@ -20,7 +20,7 @@ function Navbar() {
   ];
   return (
     <div className="absolute inset-x-0 top-0 z-50 mx-auto flex w-full max-w-6xl items-center justify-between bg-transparent px-6 py-6 text-neutral-400">
-      <div className="">
+      <div>
         <Image src="/logo.svg" width={100} height={40} alt="logo icon " />
       </div>
       <nav>
